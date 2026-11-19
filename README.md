@@ -1,2 +1,1 @@
-Hello Git
-你在哪里
+Hello Git ;wish good luck!
